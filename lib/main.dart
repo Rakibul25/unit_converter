@@ -53,7 +53,7 @@ class _UnitConverterState extends State<UnitConverter> {
                     });
                   },
                 ),
-                Text('$b')
+                Text('Your input : $b')
               ],
             ),
           ),
